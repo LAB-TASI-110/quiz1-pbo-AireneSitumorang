@@ -1,0 +1,8 @@
+Gemini 
+1.buatkan progra jaBuatkan program Java sistem kasir warung makan, input kode menu dan porsi sampai END, terus tampilkan struk dan kupon.
+2.Cara buat program Java yang bisa hitung total belanja dan kasih kupon sesuai jumlah belanja gimana?
+
+Gpt
+1.Tolong buat contoh program kasir sederhana pakai while dan switch case di Java.
+2.Buat program Java transaksi makanan, input kode dan porsi, hitung total, terus tentuin kupon.
+3.Gimana buat sistem transaksi sederhana di Java yang inputnya berulang sampai END?
