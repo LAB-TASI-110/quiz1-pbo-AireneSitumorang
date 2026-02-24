@@ -1,0 +1,11 @@
+Versi GPT
+1.Buatkan sistem Java untuk operasional Laundry Del berbasis console.
+2.Buat program Java untuk mengelola transaksi laundry (input pelanggan, jenis layanan, berat cucian, dan total bayar).
+3.Buat sistem laundry sederhana pakai konsep OOP (class, object, method).
+4.Program Java untuk Laundry Del yang bisa hitung total biaya berdasarkan jenis layanan dan berat cucian.
+
+ Versi Gemini
+1.Tolong buat sistem sederhana untuk operasional Laundry Del dalam Java.
+2.Gimana cara bikin program laundry yang bisa input data pelanggan dan hitung total pembayaran?
+3.Buat simulasi sistem Laundry Del dengan fitur transaksi dan perhitungan biaya.
+4.Buat contoh kode Java untuk sistem laundry berbasis console.
