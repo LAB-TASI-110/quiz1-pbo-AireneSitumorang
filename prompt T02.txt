@@ -1,0 +1,10 @@
+Gemini
+1.Tolong buat program Java untuk hitung total nilai siswa berdasarkan kelompok yang diminta.
+2.bagaimana cara buat program yang cuman menjumlahkan nilai dari kelompok tertentu
+3.coba buat contoh program simulasi java untuk membaca jumlah data nilai siswa,dan kode kelompok lalu hitung totalnya
+
+Gpt
+1.Tolong buat program Java untuk hitung total nilai siswa berdasarkan kelompok yang diminta.
+2.Gimana cara bikin program yang cuma menjumlahkan nilai dari kelompok tertentu aja?
+3.Buat simulasi program Java untuk membaca jumlah data, nilai siswa, dan kode kelompok lalu hitung totalnya.
+4.Buat contoh kode Java sederhana untuk penjumlahan nilai sesuai pola kelompok di soal.
