@@ -1,35 +1,26 @@
 Gpt
 1.Buatkan kerangka program Java berbasis console dengan nama class WarungMakRoby dan gunakan Scanner untuk input dari user.
-
 2.Tambahkan tampilan header di awal program menggunakan garis putus (--------------------) dengan judul SISTEM WARUNG MAK ROBY agar terlihat rapi.
-
 3.Buat tampilan tabel menggunakan System.out.printf rata kiri dengan kolom:
 Menu (lebar 25)
 Porsi (lebar 6)
 Harga (lebar 10)
 Total (lebar 10)
 Gunakan garis putus sebagai pembatas tabel.
-
 4.Gunakan perulangan while(true) agar user bisa memasukkan pesanan berkali-kali dan jika mengetik 0 pada kode menu maka perulangan berhenti dan masuk ke proses total pembayaran.
-
 5.Setelah user memasukkan kode menu, minta input jumlah porsi dan lakukan validasi angka menggunakan try-catch. Jika bukan angka tampilkan pesan error lalu ulangi input.
-
 6.Gunakan switch-case untuk menentukan harga berdasarkan kode menu berikut:
 NGS, AP, SA, BU, MAP, GG, SAM, RD, IB, NUK.
 Jika kode tidak ditemukan, tampilkan pesan bahwa kode tidak ditemukan dan kembali ke input.
-
 7.Hitung total per item (harga × porsi), tampilkan dalam tabel, lalu tambahkan ke variabel totalBayar sebagai akumulasi total keseluruhan.
-
 8.Setelah input selesai, buat sistem diskon otomatis berdasarkan total belanja:
 ≥ 50.000 → 5%
 ≥ 100.000 → 10%
 ≥ 150.000 → 15%
 ≥ 200.000 → 20%
 Hitung potongan dan total akhir setelah diskon.
-
 9.Tampilkan bagian RINCIAN PEMBAYARAN dengan garis putus yang berisi:
 Total Pembayaran
 Jenis Kupon
 Potongan
 TOTAL BAYAR
-
