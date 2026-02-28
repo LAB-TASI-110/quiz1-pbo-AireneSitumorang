@@ -1,27 +1,18 @@
 Versi GPT
-Prompt 1 – Struktur Dasar Program
-Buatkan kerangka program Java berbasis console dengan nama class LaundryDel dan gunakan Scanner untuk input data dari user.
-
-Prompt 2 – Class Transaksi
-Tambahkan class terpisah bernama Transaksi yang memiliki atribut:
+1.Buatkan kerangka program Java berbasis console dengan nama class LaundryDel dan gunakan Scanner untuk input data dari user.
+2.Tambahkan class terpisah bernama Transaksi yang memiliki atribut:
 nama pelanggan
 jenis layanan
 jumlah/berat
 total harga
 Sertakan constructor untuk mengisi data dan method untuk menampilkan detail transaksi.
-
-Prompt 3 – Penyimpanan Data
-Gunakan ArrayList<Transaksi> untuk menyimpan semua data transaksi yang ditambahkan.
-
-Prompt 4 – Menu Utama
-Buat menu menggunakan perulangan do-while dengan pilihan:
+3.Gunakan ArrayList<Transaksi> untuk menyimpan semua data transaksi yang ditambahkan.
+4.Buat menu menggunakan perulangan do-while dengan pilihan:
 Tambah Transaksi
 Lihat Transaksi
 Keluar
 Program harus terus berjalan sampai user memilih 0.
-
-Prompt 5 – Tambah Transaksi
-Jika user memilih tambah transaksi:
+5.Jika user memilih tambah transaksi:
 Minta input nama pelanggan
 Tampilkan pilihan layanan:
 Cuci Kiloan (Rp7000/kg)
@@ -30,11 +21,7 @@ Minta input jumlah sesuai layanan
 Hitung total harga secara otomatis
 Simpan data ke dalam ArrayList
 Tampilkan pesan bahwa transaksi berhasil ditambahkan
-
-Prompt 6 – Lihat Transaksi
-Jika user memilih lihat transaksi:
+6.Jika user memilih lihat transaksi:
 Tampilkan semua data transaksi dengan format rapi (nama, layanan, jumlah/berat, total harga)
 Jika ArrayList kosong, tampilkan pesan bahwa belum ada transaksi
-
-Prompt 7 – Keluar Program
-Jika user memilih 0, hentikan perulangan dan akhiri program.
+7.Jika user memilih 0, hentikan perulangan dan akhiri program.  
