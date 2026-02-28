@@ -1,10 +1,30 @@
-Gemini
-1.Tolong buat program Java untuk hitung total nilai siswa berdasarkan kelompok yang diminta.
-2.bagaimana cara buat program yang cuman menjumlahkan nilai dari kelompok tertentu
-3.coba buat contoh program simulasi java untuk membaca jumlah data nilai siswa,dan kode kelompok lalu hitung totalnya
-
 Gpt
-1.Tolong buat program Java untuk hitung total nilai siswa berdasarkan kelompok yang diminta.
-2.Gimana cara bikin program yang cuma menjumlahkan nilai dari kelompok tertentu aja?
-3.Buat simulasi program Java untuk membaca jumlah data, nilai siswa, dan kode kelompok lalu hitung totalnya.
-4.Buat contoh kode Java sederhana untuk penjumlahan nilai sesuai pola kelompok di soal.
+Prompt 1 – Struktur Dasar Program
+Buatkan kerangka program Java berbasis console dengan nama class PenjumlahanNilaiKelompok dan gunakan Scanner untuk input data dari user.
+
+Prompt 2 – Input Jumlah Data
+Tambahkan fitur untuk meminta user memasukkan jumlah data terlebih dahulu, lalu simpan dalam variabel integer.
+
+Prompt 3 – Pembuatan Array
+Buat dua array berdasarkan jumlah data tersebut:
+Array untuk menyimpan nilai
+Array untuk menyimpan kode kelompok setiap nilai
+
+Prompt 4 – Input Data Menggunakan Perulangan
+Gunakan perulangan for untuk meminta user memasukkan:
+Nilai ke-i
+Kode kelompok dari nilai tersebut
+Simpan masing-masing input ke dalam array yang sesuai.
+
+Prompt 5 – Menu Perhitungan Kelompok
+Buat perulangan do-while yang memungkinkan user memasukkan kode kelompok yang ingin dihitung total nilainya, dan beri pilihan angka 0 untuk keluar dari program.
+
+Prompt 6 – Proses Penjumlahan
+Gunakan perulangan untuk mengecek setiap data, jika kode kelompok sama dengan yang dipilih user maka jumlahkan nilainya ke dalam variabel total.
+
+Prompt 7 – Validasi Kelompok
+Jika tidak ada data dengan kode kelompok yang dipilih, tampilkan pesan "Kelompok tidak ada!".
+Jika ada, tampilkan total nilai kelompok tersebut.
+
+Prompt 8 – Keluar Program
+Jika user memasukkan angka 0, hentikan perulangan dan tampilkan pesan "Program selesai".
